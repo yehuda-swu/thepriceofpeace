@@ -62,11 +62,11 @@ No cookies, tracking, API calls, logins, external assets or server access. The o
 
 ## Branding
 
-The header includes typographic StandWithUs UK and Explore branding, and the design uses original game illustrations. The project does not contain copies of the official graphical logos. The wordmarks can be replaced with official artwork supplied by the organisation without changing gameplay.
+The game includes the supplied StandWithUs UK and Explore graphical logos.
 
 ## Meet the negotiators and historical image archive
 
-Use the **Meet the teams** control in the game header to view short profiles of twelve historical figures from the Israeli, Egyptian and American delegations. The maps and photographs tab includes the original illustrative Sinai diagram and spaces reserved for historical assets the organisation will supply. See `IMAGE_GUIDE.md` for how photographs will be integrated. No uncredited third party images are distributed in this package.
+Use **Meet the teams** to explore twelve negotiator profiles. Supplied maps and photographs are embedded in the research room, on the negotiation table and in the historical reveal. See `IMAGE_CREDITS.md` for known sources and rights checks.
 
 
 ## Supplied historical images and branding
@@ -81,3 +81,9 @@ Please review `IMAGE_CREDITS.md` and `image_credits.html` before placing the sit
 The game now uses a first person, tabletop view throughout the five rounds, voting, rejected offers, Carter mediation and agreement recording. The relevant historical portraits, dossiers, maps and telegrams appear in the room. Tap or click the map/document on the table, or the evidence button underneath, to inspect the material at full size. The players remain seated from their own delegation's viewpoint in Single Player mode. Classroom mode displays the two delegations together. The historic room photograph is used as an atmospheric background and the arrangement is illustrative, not a reconstruction of the exact 1978 seating positions.
 
 The Teacher Guide, Historical Sources, image credits and both programmes' logos are still included. The game works offline after download and does not require a server to run.
+
+
+## Concise Classroom Edition (November 2026)
+The negotiating table now presents one question at a time, two short delegation positions and three brief choices. Students can open additional background if needed. All five rounds, computer negotiation, classroom voting, two Carter interventions, political trust scores and the historical comparison remain in place.
+
+**Teacher tip:** Allow 30 seconds to read each dossier, 45 to 60 seconds to debate, and then select an offer. Use the historical reveal at the end for reflection.

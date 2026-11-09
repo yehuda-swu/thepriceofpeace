@@ -12,3 +12,14 @@
 * Optimised table view CSS for phones and computers.
 
 Historical reconstruction note: The display is an illustrative representation of diplomacy, not an exact reconstruction of a particular Camp David meeting or seating arrangement.
+
+
+## Version 5: Less is more
+* Shorter round contexts, positions and proposals, suitable for students aged 16 to 17.
+* Reduced repeated explanatory copy in the room, choices and sidebar.
+* Optional background details for those who want more context.
+* Compact confidential briefings with full printable objectives retained.
+* More direct rejection, mediation, voting and agreement messages.
+* Historical reveal split into concise facts and an expandable comparison.
+* Negotiation mechanics, score values, historical source documents and images unchanged.
+* The map viewer no longer reveals the historical outcome before students negotiate.
