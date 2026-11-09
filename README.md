@@ -12,6 +12,12 @@ Open `index.html` in a modern browser. The entire game works without an internet
 * `style.css`: immersive 1970s negotiation room design, responsive layout and print styles
 * `game.js`: game engine, computer negotiation, classroom voting, Carter mediation, scoring and historical reveal
 * `assets/favicon.svg`: original game icon
+* `archive.js`: historical team profiles and interactive research room
+* `media.js`: image file configuration, ready for future photographs and maps
+* `teacher_guide.html`: readable Teacher Guide linked from every game screen
+* `historical_sources.html`: readable Historical Sources page linked from every game screen
+* `Teacher_Guide.pdf` and `Historical_Sources.pdf`: printable documents
+* `IMAGE_GUIDE.md`: list of photographs, maps and specifications for future uploads
 * `TEACHER_GUIDE.md`: teaching plan, briefings and classroom tips
 * `SOURCES.md`: historical references and explanation of simulation choices
 
@@ -42,7 +48,7 @@ git push origin main
 
 ## Teacher guidance
 
-See `TEACHER_GUIDE.md`. The final results screen contains historical comparisons and class discussion prompts. It can be printed or saved as a local text file.
+Click **Teacher Guide** or **Historical Sources** in the top navigation from any game screen. Both documents also have printable PDF versions. The final results screen contains historical comparisons and class discussion prompts. It can be printed or saved as a local text file.
 
 ## Historical note
 
@@ -57,3 +63,14 @@ No cookies, tracking, API calls, logins, external assets or server access. The o
 ## Branding
 
 The header includes typographic StandWithUs UK and Explore branding, and the design uses original game illustrations. The project does not contain copies of the official graphical logos. The wordmarks can be replaced with official artwork supplied by the organisation without changing gameplay.
+
+## Meet the negotiators and historical image archive
+
+Use the **Meet the teams** control in the game header to view short profiles of twelve historical figures from the Israeli, Egyptian and American delegations. The maps and photographs tab includes the original illustrative Sinai diagram and spaces reserved for historical assets the organisation will supply. See `IMAGE_GUIDE.md` for how photographs will be integrated. No uncredited third party images are distributed in this package.
+
+
+## Supplied historical images and branding
+
+The game now includes 12 delegation portraits, Sinai maps, historical photographs, document images and the supplied StandWithUs UK and Explore logos. The images are locally embedded, so the site works without a connection to external image hosts. The negotiation dossiers and final historical reveal also use these photographs.
+
+Please review `IMAGE_CREDITS.md` and `image_credits.html` before placing the site online. Image copyrights, photographers and publication permissions have not been confirmed. Some agency watermarks remain visible.

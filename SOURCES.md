@@ -22,6 +22,16 @@ The Price of Peace distinguishes the 1978 Camp David Accords and the Egypt–Isr
 6. Original treaty related documents and letters concerning ambassador exchange, American Presidency Project:  
    https://www.presidency.ucsb.edu/documents/egyptian-israeli-peace-treaty-treaty-and-related-documents
 
+## Delegation identities and roles
+
+The Jimmy Carter Presidential Library documents the three delegations and confirms the participation of Menachem Begin, Moshe Dayan, Ezer Weizman, Aharon Barak, Anwar Sadat, Mohamed Ibrahim Kamel, Boutros Ghali, Osama el-Baz, Jimmy Carter, Cyrus Vance, Zbigniew Brzezinski and Alfred Atherton.
+
+https://www.jimmycarterlibrary.gov/research/additional-resources/camp-david-accords/thirteen-days-after-twenty-five-years
+
+The US State Department historical record notes that Foreign Minister Kamel resigned after the Camp David signing ceremony. See: https://history.state.gov/historicaldocuments/frus1977-80v09Ed2/d57
+
+The people profiles are brief historical summaries, not quotations or fictional dialogues attributed to real people.
+
 ## Accurate historical outcomes used in the game
 
 **Sinai:** Israeli military forces and civilians were to withdraw behind the international boundary, restoring Egyptian sovereignty. Removal of Israeli settlements was a major issue during the Camp David negotiations.

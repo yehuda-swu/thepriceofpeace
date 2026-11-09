@@ -59,3 +59,9 @@ Remind students that accepting every demand made by one side is not the same as 
 ## Optional written task
 
 Ask each team to write a 100 word diplomatic communiqué that explains one concession it made, why it accepted that concession and one issue that remains unresolved.
+
+## Meet the delegations
+
+Select **Meet the teams** from the game header to introduce the leaders and advisers. Four figures are featured for each delegation. Begin, Sadat and Carter are central to the storyline; the other team members demonstrate that diplomacy depends on military, legal and foreign policy advisers as well as leaders. This archive contains public historical information, not the game’s private briefing. Students can open it without revealing the other team’s objectives.
+
+The **Maps and photographs** tab shows an original illustrative Sinai diagram. The other image spaces will be populated with credited photographs and maps supplied by StandWithUs UK. The empty spaces are deliberate and do not affect gameplay.

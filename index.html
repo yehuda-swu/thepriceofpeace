@@ -13,15 +13,18 @@
   <a class="skip" href="#app">Skip to game</a>
   <header class="site-header">
     <div class="brand" aria-label="Explore by StandWithUs UK">
-      <div class="swu-wordmark"><strong>Stand<span>With</span>Us</strong><small>UNITED KINGDOM</small></div>
+      <img class="brand-swu" src="assets/branding/standwithus_uk.png" alt="StandWithUs United Kingdom">
       <div class="brand-divider"></div>
-      <div class="explore-wordmark"><span class="compass">✦</span> EXPLORE <small>EDUCATION PROGRAMME</small></div>
+      <img class="brand-explore" src="assets/branding/explore.png" alt="Explore educational programme">
     </div>
-    <div class="header-right"><span class="edition">DIPLOMATIC SIMULATION <b>1978–1979</b></span><button class="small-button" id="restartTop" type="button" hidden>Start again ↺</button></div>
+    <div class="header-right"><nav class="resource-nav" aria-label="Explore teaching resources"><button type="button" data-action="openArchive">Meet the teams</button><a href="teacher_guide.html" target="_blank" rel="noopener">Teacher Guide</a><a href="historical_sources.html" target="_blank" rel="noopener">Historical Sources</a><a href="image_credits.html" target="_blank" rel="noopener">Image Credits</a></nav><span class="edition">DIPLOMATIC SIMULATION <b>1978–1979</b></span><button class="small-button" id="restartTop" type="button" hidden>Start again ↺</button></div>
   </header>
   <main id="app" tabindex="-1" aria-live="polite"></main>
   <footer class="site-footer"><span>THE PRICE OF PEACE <i>•</i> EXPLORE BY STANDWITHUS UK</span><span>Historical learning simulation. Negotiation scores are fictional teaching indicators.</span></footer>
+  <dialog id="peaceArchiveDialog" class="archive-modal" aria-labelledby="peaceArchiveTitle"><div class="archive-modal-top"><span>THE PRICE OF PEACE / RESEARCH ROOM</span><form method="dialog"><button class="archive-close" aria-label="Close historical archive">✕ CLOSE</button></form></div><div id="peaceArchiveBody"></div></dialog>
   <div id="printArea" aria-hidden="true"></div>
+  <script src="media.js" defer></script>
   <script src="game.js" defer></script>
+  <script src="archive.js" defer></script>
 </body>
 </html>
