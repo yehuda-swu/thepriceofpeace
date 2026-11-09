@@ -65,3 +65,12 @@ Ask each team to write a 100 word diplomatic communiqué that explains one conce
 Select **Meet the teams** from the game header to introduce the leaders and advisers. Four figures are featured for each delegation. Begin, Sadat and Carter are central to the storyline; the other team members demonstrate that diplomacy depends on military, legal and foreign policy advisers as well as leaders. This archive contains public historical information, not the game’s private briefing. Students can open it without revealing the other team’s objectives.
 
 The **Maps and photographs** tab shows an original illustrative Sinai diagram. The other image spaces will be populated with credited photographs and maps supplied by StandWithUs UK. The empty spaces are deliberate and do not affect gameplay.
+
+
+## Using the new table view
+
+The game is presented from a seated viewpoint at a Camp David inspired diplomatic table. A new file arrives each round. Students should look at the negotiators, examine the map or document on the table, and read the two positions below before submitting a proposal. If the offer is rejected, they remain at the table while negotiations stall. Carter's mediation is presented as an intervention at the same table. Classroom mode presents both delegations, while Single Player mode places the player's team next to them and the other team across from them.
+
+The archival portraits and names are authentic subjects; their arrangement in the simulated room is illustrative, not a claim about where each individual sat in 1978. Maps of treaty zones may show arrangements finalised in 1979, so should be treated as later evidence for comparison, not as identical to what negotiators saw in September 1978.
+
+For a short lesson, use 30 seconds per dossier, about 30 seconds to discuss proposals, and one final reflection after the historical reveal. For Classroom mode, distribute or privately display the separate confidential delegation briefs before bringing teams to the shared screen.

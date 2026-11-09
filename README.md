@@ -74,3 +74,10 @@ Use the **Meet the teams** control in the game header to view short profiles of 
 The game now includes 12 delegation portraits, Sinai maps, historical photographs, document images and the supplied StandWithUs UK and Explore logos. The images are locally embedded, so the site works without a connection to external image hosts. The negotiation dossiers and final historical reveal also use these photographs.
 
 Please review `IMAGE_CREDITS.md` and `image_credits.html` before placing the site online. Image copyrights, photographers and publication permissions have not been confirmed. Some agency watermarks remain visible.
+
+
+## Seated negotiator view (latest update)
+
+The game now uses a first person, tabletop view throughout the five rounds, voting, rejected offers, Carter mediation and agreement recording. The relevant historical portraits, dossiers, maps and telegrams appear in the room. Tap or click the map/document on the table, or the evidence button underneath, to inspect the material at full size. The players remain seated from their own delegation's viewpoint in Single Player mode. Classroom mode displays the two delegations together. The historic room photograph is used as an atmospheric background and the arrangement is illustrative, not a reconstruction of the exact 1978 seating positions.
+
+The Teacher Guide, Historical Sources, image credits and both programmes' logos are still included. The game works offline after download and does not require a server to run.
